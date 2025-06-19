@@ -14,7 +14,7 @@ You'll need to do a few things to make this template function with GitHub pages
 ### 2. Activate GitHub pages in the new repository settings
 
 ---
-You'll need to set it to deploy from a branch, select `main` as the branch to deploy from, select the `docs/` folder as the deployment location, and then click save.
+You'll need to set it to deploy from a branch, select `main` as the branch to deploy from, select the `docs/` folder as the 'built from' location, and then click save.
 
   ![image](https://github.com/user-attachments/assets/fa1d3584-3677-4346-8bba-b0a328b34ef7)
 
